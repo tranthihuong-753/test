@@ -647,7 +647,7 @@
           <mxGeometry x="470" y="3920" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Jsi_0MGGv667d9zRB-nn-216" value="Xóa nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="4070" width="140" height="70" as="geometry" />
+          <mxGeometry x="450" y="4040" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
