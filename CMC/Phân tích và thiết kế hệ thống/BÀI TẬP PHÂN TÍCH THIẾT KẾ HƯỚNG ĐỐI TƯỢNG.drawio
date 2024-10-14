@@ -1087,36 +1087,48 @@
           <mxGeometry y="20" width="311" height="463" as="geometry" />
         </mxCell>
         <mxCell id="mkYvEvXkLK8AUYom4rCA-3" value="Chọn hình thức thanh toán" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
-          <mxGeometry x="75.99999999999955" y="36" width="100" height="40" as="geometry" />
+          <mxGeometry x="110.99999999999955" y="36" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mkYvEvXkLK8AUYom4rCA-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
           <mxGeometry x="5.999999999999545" y="41" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mkYvEvXkLK8AUYom4rCA-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="mkYvEvXkLK8AUYom4rCA-4">
+        <mxCell id="mkYvEvXkLK8AUYom4rCA-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="mkYvEvXkLK8AUYom4rCA-4" target="mkYvEvXkLK8AUYom4rCA-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="75.99999999999955" y="56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mkYvEvXkLK8AUYom4rCA-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
-          <mxGeometry x="187.99999999999955" y="234" width="30" height="30" as="geometry" />
+          <mxGeometry x="69.99999999999955" y="259" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="VR94LNh2WymQmyAGIJgn-8" target="VR94LNh2WymQmyAGIJgn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-8" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
+          <mxGeometry x="65" y="109" width="195" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="mkYvEvXkLK8AUYom4rCA-3" target="VR94LNh2WymQmyAGIJgn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="VR94LNh2WymQmyAGIJgn-11" target="mkYvEvXkLK8AUYom4rCA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-11" value="Chọn Thanh toán trước khi nhận hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
+          <mxGeometry x="25" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-12" value="Chọn thanh toán bằng thẻ tín dụng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-2">
+          <mxGeometry x="165" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.385;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-2" source="VR94LNh2WymQmyAGIJgn-8" target="VR94LNh2WymQmyAGIJgn-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mkYvEvXkLK8AUYom4rCA-7" value="Hệ thống" style="swimlane;startSize=20;html=1;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-1">
           <mxGeometry x="311" y="20" width="305" height="463" as="geometry" />
         </mxCell>
-        <mxCell id="mkYvEvXkLK8AUYom4rCA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-1" source="mkYvEvXkLK8AUYom4rCA-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.9999999999991" y="117.00000000000011" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="mkYvEvXkLK8AUYom4rCA-29" value="Hiển thị giao diện liên kết tới ngân hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mkYvEvXkLK8AUYom4rCA-7">
+          <mxGeometry x="101" y="159" width="142" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mkYvEvXkLK8AUYom4rCA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-1" target="mkYvEvXkLK8AUYom4rCA-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494.49999999999955" y="373" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mkYvEvXkLK8AUYom4rCA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-1" target="mkYvEvXkLK8AUYom4rCA-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="364" y="268" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="VR94LNh2WymQmyAGIJgn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mkYvEvXkLK8AUYom4rCA-1" source="VR94LNh2WymQmyAGIJgn-12" target="mkYvEvXkLK8AUYom4rCA-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
