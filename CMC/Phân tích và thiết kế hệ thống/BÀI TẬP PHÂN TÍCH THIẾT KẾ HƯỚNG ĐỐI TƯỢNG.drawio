@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="Xây dựng biểu đồ use case" id="9hOZMOrgnlAqW55MWDyS">
-    <mxGraphModel dx="1534" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2669" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,10 @@
         <mxCell id="Jsi_0MGGv667d9zRB-nn-5" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="82.5" y="490" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jsi_0MGGv667d9zRB-nn-7" value="&lt;span style=&quot;font-size: 12px;&quot; id=&quot;docs-internal-guid-6e65e3b9-7fff-7d46-da7b-84a1f44683c8&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Đăng ký/ đăng nhập &lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="KXCsXN4Q2RoB_cv9qklt-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Jsi_0MGGv667d9zRB-nn-7" target="KXCsXN4Q2RoB_cv9qklt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jsi_0MGGv667d9zRB-nn-7" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="720" y="190" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jsi_0MGGv667d9zRB-nn-48" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Jsi_0MGGv667d9zRB-nn-10" target="Jsi_0MGGv667d9zRB-nn-7" edge="1">
@@ -517,7 +520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-2" value="Use case" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-240" width="780" height="820" as="geometry" />
+          <mxGeometry x="180" y="-240" width="1060" height="820" as="geometry" />
         </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-3" value="Tìm kiếm sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-220" width="140" height="40" as="geometry" />
@@ -754,6 +757,9 @@
         </mxCell>
         <mxCell id="DGWI9PYvVWG_XzOtBwMM-15" value="Hiển thị thông báo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KXCsXN4Q2RoB_cv9qklt-1" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="195" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
