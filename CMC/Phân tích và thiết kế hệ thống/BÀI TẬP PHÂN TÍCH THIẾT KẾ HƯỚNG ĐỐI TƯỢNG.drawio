@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="Xây dựng biểu đồ use case" id="9hOZMOrgnlAqW55MWDyS">
-    <mxGraphModel dx="2669" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1459" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,6 +596,9 @@
         <mxCell id="VIyeyp8FCfyldq-06qcu-32" value="Người dùng" style="swimlane;startSize=20;html=1;" parent="VIyeyp8FCfyldq-06qcu-31" vertex="1">
           <mxGeometry y="20" width="240" height="560" as="geometry" />
         </mxCell>
+        <mxCell id="VIyeyp8FCfyldq-06qcu-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="VIyeyp8FCfyldq-06qcu-32" vertex="1">
+          <mxGeometry y="55" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-33" value="Hệ thống" style="swimlane;startSize=20;html=1;" parent="VIyeyp8FCfyldq-06qcu-31" vertex="1">
           <mxGeometry x="240" y="20" width="240" height="560" as="geometry" />
         </mxCell>
@@ -612,15 +615,6 @@
         </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-35" value="Chọn loại sản phẩm" style="rounded=1;whiteSpace=wrap;html=1;" parent="VIyeyp8FCfyldq-06qcu-33" vertex="1">
           <mxGeometry x="-180" y="50" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VIyeyp8FCfyldq-06qcu-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="VIyeyp8FCfyldq-06qcu-33" vertex="1">
-          <mxGeometry x="-300" y="55" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VIyeyp8FCfyldq-06qcu-42" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="VIyeyp8FCfyldq-06qcu-33" source="VIyeyp8FCfyldq-06qcu-41" target="VIyeyp8FCfyldq-06qcu-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-315" y="100" as="targetPoint" />
-            <mxPoint x="-260" y="70" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="VIyeyp8FCfyldq-06qcu-33" source="VIyeyp8FCfyldq-06qcu-35" target="VIyeyp8FCfyldq-06qcu-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -694,6 +688,12 @@
         </mxCell>
         <mxCell id="VIyeyp8FCfyldq-06qcu-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="VIyeyp8FCfyldq-06qcu-33" source="VIyeyp8FCfyldq-06qcu-44" target="VIyeyp8FCfyldq-06qcu-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIyeyp8FCfyldq-06qcu-42" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="VIyeyp8FCfyldq-06qcu-31" source="VIyeyp8FCfyldq-06qcu-41" target="VIyeyp8FCfyldq-06qcu-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-75" y="120" as="targetPoint" />
+            <mxPoint x="-20" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DGWI9PYvVWG_XzOtBwMM-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="DGWI9PYvVWG_XzOtBwMM-4" target="DGWI9PYvVWG_XzOtBwMM-9">
           <mxGeometry relative="1" as="geometry">
