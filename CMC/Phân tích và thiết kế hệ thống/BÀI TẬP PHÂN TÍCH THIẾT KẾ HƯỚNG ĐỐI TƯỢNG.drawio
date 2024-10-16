@@ -1987,6 +1987,46 @@
         <mxCell id="rdQ7SRWa3HTLdScnndYr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rdQ7SRWa3HTLdScnndYr-43" source="rdQ7SRWa3HTLdScnndYr-66" target="rdQ7SRWa3HTLdScnndYr-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-70" value="Xóa nhân viên" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="8429" y="1749" width="614" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-71" value="Nhân viên" style="swimlane;startSize=20;html=1;fontSize=12;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-70">
+          <mxGeometry y="20" width="311" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-72" value="Vào mục &quot;Nhân viên&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-71">
+          <mxGeometry x="111" y="36" width="107" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-73" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-71">
+          <mxGeometry x="5.999999999999545" y="47.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-74" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="rdQ7SRWa3HTLdScnndYr-71" source="rdQ7SRWa3HTLdScnndYr-73" target="rdQ7SRWa3HTLdScnndYr-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75.99999999999955" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-75" value="Chọn nhân viên&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-71">
+          <mxGeometry x="111" y="154" width="98" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rdQ7SRWa3HTLdScnndYr-70" source="rdQ7SRWa3HTLdScnndYr-72" target="rdQ7SRWa3HTLdScnndYr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-81" value="Hệ thống" style="swimlane;startSize=20;html=1;fontSize=12;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-70">
+          <mxGeometry x="311" y="20" width="303" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-82" value="Hiển thị" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-81">
+          <mxGeometry x="121" y="100" width="65" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-90" value="Hiển thị câu hỏi check lại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rdQ7SRWa3HTLdScnndYr-81">
+          <mxGeometry x="105" y="219" width="93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rdQ7SRWa3HTLdScnndYr-70" source="rdQ7SRWa3HTLdScnndYr-82" target="rdQ7SRWa3HTLdScnndYr-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdQ7SRWa3HTLdScnndYr-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rdQ7SRWa3HTLdScnndYr-70" source="rdQ7SRWa3HTLdScnndYr-75" target="rdQ7SRWa3HTLdScnndYr-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="267.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
