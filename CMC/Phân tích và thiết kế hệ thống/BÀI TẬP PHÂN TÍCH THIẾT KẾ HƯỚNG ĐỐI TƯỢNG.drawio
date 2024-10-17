@@ -2074,7 +2074,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDLwOYq-Zi9CckYWvB0r" name="Xây dựng biểu đồ lớp">
-    <mxGraphModel dx="1444" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="1318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2137,12 +2137,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="149" y="189" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="151" y="187" />
+              <mxPoint x="160" y="187" />
+              <mxPoint x="159" y="187" />
+              <mxPoint x="159" y="171" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-17" value="ThanhToan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="71" y="275" width="160" height="134" as="geometry" />
+          <mxGeometry x="80" y="291" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-18" value="- idDonHang&lt;div&gt;- idKhachHang&amp;nbsp;&lt;/div&gt;&lt;div&gt;- TinhTrang&lt;/div&gt;&lt;div&gt;- CachThanhToan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="-reck-yctFr5loYEYWxD-17" vertex="1">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
@@ -2217,7 +2219,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-42" value="NhanVien" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="593" y="280" width="160" height="115" as="geometry" />
+          <mxGeometry x="595" y="310" width="160" height="115" as="geometry" />
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-43" value="- id&amp;nbsp;&lt;div&gt;- Ten&lt;/div&gt;&lt;div&gt;- BoPhan&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="-reck-yctFr5loYEYWxD-42" vertex="1">
           <mxGeometry y="26" width="160" height="55" as="geometry" />
@@ -2257,7 +2259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DP4-abG_rojwYxLcQ7wd-14" value="QuanLy" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="280" width="160" height="101" as="geometry" />
+          <mxGeometry x="880" y="314" width="160" height="101" as="geometry" />
         </mxCell>
         <mxCell id="DP4-abG_rojwYxLcQ7wd-15" value="- idQL&amp;nbsp;&lt;div&gt;- idNV&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="DP4-abG_rojwYxLcQ7wd-14" vertex="1">
           <mxGeometry y="26" width="160" height="41" as="geometry" />
