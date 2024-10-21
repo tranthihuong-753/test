@@ -2079,7 +2079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDLwOYq-Zi9CckYWvB0r" name="Xây dựng biểu đồ lớp">
-    <mxGraphModel dx="1459" dy="1012" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2155,7 +2155,7 @@
           <mxGeometry y="110" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-21" value="DanhGia" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-225" y="56" width="160" height="114" as="geometry" />
+          <mxGeometry x="83" y="311" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="-reck-yctFr5loYEYWxD-22" value="- idDonHang&lt;div&gt;- idKhachHang&lt;/div&gt;&lt;div&gt;- NoiDung&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="-reck-yctFr5loYEYWxD-21" vertex="1">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
@@ -2202,10 +2202,11 @@
         <mxCell id="-reck-yctFr5loYEYWxD-36" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="-reck-yctFr5loYEYWxD-33" vertex="1">
           <mxGeometry y="99" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="DP4-abG_rojwYxLcQ7wd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="-reck-yctFr5loYEYWxD-2" target="-reck-yctFr5loYEYWxD-22" edge="1">
+        <mxCell id="DP4-abG_rojwYxLcQ7wd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="-reck-yctFr5loYEYWxD-4" target="-reck-yctFr5loYEYWxD-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="109" />
+              <mxPoint x="336" y="157" />
+              <mxPoint x="336" y="364" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2320,6 +2321,18 @@
         </mxCell>
         <mxCell id="zvkhR4-XJfDj-TzdIUj6-5" value="có" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="-346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-6" value="1...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244.99999999999997" y="128" width="26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-7" value="0 ... n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="339" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="338" y="267" width="24" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-9" value="có" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="238.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
