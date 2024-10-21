@@ -2079,14 +2079,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDLwOYq-Zi9CckYWvB0r" name="Xây dựng biểu đồ lớp">
-    <mxGraphModel dx="1444" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1844" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DP4-abG_rojwYxLcQ7wd-1" value="0...n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="-reck-yctFr5loYEYWxD-1" target="-reck-yctFr5loYEYWxD-13" edge="1">
+        <mxCell id="DP4-abG_rojwYxLcQ7wd-1" value="0...n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="-reck-yctFr5loYEYWxD-1" target="-reck-yctFr5loYEYWxD-14" edge="1">
           <mxGeometry x="0.8392" y="9" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="-122" />
+              <mxPoint x="160" y="-94" />
+              <mxPoint x="260" y="-94" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2333,6 +2334,26 @@
         </mxCell>
         <mxCell id="zvkhR4-XJfDj-TzdIUj6-9" value="có" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="238.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.128;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-reck-yctFr5loYEYWxD-22" target="-reck-yctFr5loYEYWxD-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-56" y="364" />
+              <mxPoint x="-56" y="-128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-11" value="1...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="44.99999999999997" y="331" width="26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-12" value="1...1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="92" width="21" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvkhR4-XJfDj-TzdIUj6-14" value="có" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-108.5" y="119" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
