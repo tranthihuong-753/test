@@ -2379,8 +2379,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="11" y="115" />
-              <mxPoint x="11" y="-439" />
-              <mxPoint x="1079" y="-439" />
+              <mxPoint x="11" y="-402" />
+              <mxPoint x="1078" y="-402" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2388,10 +2388,10 @@
           <mxGeometry x="16" y="82" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_huIxh-XxbSlmsnRvjMh-8" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="466" y="-480" width="34" height="29" as="geometry" />
+          <mxGeometry x="501" y="-438" width="34" height="29" as="geometry" />
         </mxCell>
         <mxCell id="_huIxh-XxbSlmsnRvjMh-9" value="có" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="415" y="-480" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="-438" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_huIxh-XxbSlmsnRvjMh-10" value="0 ... n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1082" y="-373" width="45" height="22" as="geometry" />
