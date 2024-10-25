@@ -2427,7 +2427,7 @@
         <mxCell id="GaV4YmrNAYT7m_Nvy47o-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kd4dwiij0lL9qdMsw7A7-7">
           <mxGeometry x="14" y="278" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="GaV4YmrNAYT7m_Nvy47o-10" value="4.2 HienThiThongBao()&lt;div&gt;send&lt;/div&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="kd4dwiij0lL9qdMsw7A7-7" source="GaV4YmrNAYT7m_Nvy47o-11" target="GaV4YmrNAYT7m_Nvy47o-12">
+        <mxCell id="GaV4YmrNAYT7m_Nvy47o-10" value="4. HienThiThongBao()&lt;div&gt;send&lt;/div&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="kd4dwiij0lL9qdMsw7A7-7" source="GaV4YmrNAYT7m_Nvy47o-11" target="GaV4YmrNAYT7m_Nvy47o-12">
           <mxGeometry x="-0.4561" y="-17" width="160" relative="1" as="geometry">
             <mxPoint x="19" y="244" as="sourcePoint" />
             <mxPoint x="-115" y="243" as="targetPoint" />
