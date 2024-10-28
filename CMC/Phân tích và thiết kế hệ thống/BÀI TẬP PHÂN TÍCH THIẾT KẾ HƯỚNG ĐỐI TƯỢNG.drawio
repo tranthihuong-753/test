@@ -3092,10 +3092,10 @@
         <mxCell id="8vAorL4CHyigbSDypD76-4" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="5620" y="67" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8vAorL4CHyigbSDypD76-5" value="GUI Đăng Ký" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="5740" y="87" width="100" height="40" as="geometry" />
+        <mxCell id="8vAorL4CHyigbSDypD76-5" value="GUI thêm nhân viên" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5740" y="87" width="127" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8vAorL4CHyigbSDypD76-6" value=":Account" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="8vAorL4CHyigbSDypD76-6" value=":Nhanvien" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="5940" y="87" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8vAorL4CHyigbSDypD76-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
@@ -3144,7 +3144,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vAorL4CHyigbSDypD76-17" value="3. GuiThongTin()&lt;div&gt;send&lt;/div&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" source="8vAorL4CHyigbSDypD76-8" target="8vAorL4CHyigbSDypD76-14" parent="1">
+        <mxCell id="8vAorL4CHyigbSDypD76-17" value="3. themnv()&lt;div&gt;create&lt;/div&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" source="8vAorL4CHyigbSDypD76-8" target="8vAorL4CHyigbSDypD76-14" parent="1">
           <mxGeometry x="-0.0316" y="18" width="160" relative="1" as="geometry">
             <mxPoint x="5776" y="335" as="sourcePoint" />
             <mxPoint x="5985" y="293" as="targetPoint" />
