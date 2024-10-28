@@ -2821,6 +2821,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jxylK5ty7W1lQr4KQKBQ-1" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="340" width="483" height="247" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
