@@ -765,7 +765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UWHitB3WfCgepethj-9X" name="Xây dựng biểu đồ hoạt động">
-    <mxGraphModel dx="534" dy="140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="436" dy="83" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1278,7 +1278,7 @@
         <mxCell id="_IAxmjcx5eV6RiAzKUnP-39" value="Trả lời câu hỏi phản hồi của khách hàng" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="5864" y="690" width="522" height="436" as="geometry" />
         </mxCell>
-        <mxCell id="_IAxmjcx5eV6RiAzKUnP-40" value="Nhân viên" style="swimlane;startSize=20;html=1;fontSize=12;" parent="_IAxmjcx5eV6RiAzKUnP-39" vertex="1">
+        <mxCell id="_IAxmjcx5eV6RiAzKUnP-40" value="Nhân viên chăm sóc khách hàng" style="swimlane;startSize=20;html=1;fontSize=12;" parent="_IAxmjcx5eV6RiAzKUnP-39" vertex="1">
           <mxGeometry y="20" width="311" height="416" as="geometry" />
         </mxCell>
         <mxCell id="_IAxmjcx5eV6RiAzKUnP-42" value="Vào mục &quot;Phản hồi của hách hàng&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="_IAxmjcx5eV6RiAzKUnP-40" vertex="1">
