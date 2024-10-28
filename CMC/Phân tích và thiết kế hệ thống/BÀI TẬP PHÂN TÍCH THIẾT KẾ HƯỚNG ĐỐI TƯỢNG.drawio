@@ -2390,7 +2390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jCuCjNH4C2OqqE5vAiWy" name="Biểu đồ trình tự">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2676,13 +2676,13 @@
         <mxCell id="U28rjkiXU9SfJ1mGUfq2-3" value="1. Luồng chính: Đặt hàng thành công" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1884" y="-24" width="281" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U28rjkiXU9SfJ1mGUfq2-4" value="KhachHang" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="U28rjkiXU9SfJ1mGUfq2-4" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1924" y="36" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U28rjkiXU9SfJ1mGUfq2-5" value="GUI Giỏ hàng" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2044" y="56" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U28rjkiXU9SfJ1mGUfq2-6" value=":Sanpham" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="U28rjkiXU9SfJ1mGUfq2-6" value=":Giohang" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2244" y="56" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U28rjkiXU9SfJ1mGUfq2-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
@@ -2769,11 +2769,20 @@
             <mxPoint x="15" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgeG9VofGLB4AaHtVWxk-1" value="NhanVien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="WgeG9VofGLB4AaHtVWxk-1" value="Nhân viên kho" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="36" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WgeG9VofGLB4AaHtVWxk-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1840" y="176" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ekb6ohm8MhmBNekT8S7v-2" value=":Donhang" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="56" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekb6ohm8MhmBNekT8S7v-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+          <mxGeometry x="2475" y="136" width="40" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ekb6ohm8MhmBNekT8S7v-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ekb6ohm8MhmBNekT8S7v-3">
+          <mxGeometry x="15" y="73" width="10" height="345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
