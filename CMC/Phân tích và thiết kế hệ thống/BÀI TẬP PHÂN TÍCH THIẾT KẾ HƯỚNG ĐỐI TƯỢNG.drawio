@@ -3170,7 +3170,7 @@
           <mxGeometry x="160" y="280" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eQ_3uAER17pxTPQE9T9I-2" value="Nhân viên: Thử việc &amp;gt; Chính thức &amp;gt; Nghỉ việc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="170" width="270" height="30" as="geometry" />
+          <mxGeometry x="1310" y="280" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="95Pcg-aHXEZbb3tWBDIp-1" value="Đơn hàng: Đã thanh toán , Chưa thanh toán, ĐÃ xác nhận, Chưa xác nhận" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="280" width="420" height="30" as="geometry" />
@@ -3255,6 +3255,40 @@
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="680" y="695" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-28" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-29" value="Nộp đơn xin việc" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="cu3ozMEcNVpwBOdDtg-7-28" parent="1" target="cu3ozMEcNVpwBOdDtg-7-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="385" />
+              <mxPoint x="1450" y="386" />
+              <mxPoint x="1470" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-32" value="Làm lâu năm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3ozMEcNVpwBOdDtg-7-30" target="cu3ozMEcNVpwBOdDtg-7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-30" value="Thử việc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-34" value="Nộp đơn xin nghỉ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3ozMEcNVpwBOdDtg-7-31" target="cu3ozMEcNVpwBOdDtg-7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-31" value="Chính thức" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3ozMEcNVpwBOdDtg-7-33" target="cu3ozMEcNVpwBOdDtg-7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-33" value="Nghỉ việc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-35" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="585" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
