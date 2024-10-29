@@ -3166,6 +3166,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eQ_3uAER17pxTPQE9T9I-1" value="Khách hàng&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_3uAER17pxTPQE9T9I-2" value="Nhân viên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_3uAER17pxTPQE9T9I-3" value="Quản trị viên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_3uAER17pxTPQE9T9I-4" value="KH tiềm năng &amp;gt; KH hạng đồng &amp;gt; KH hạng bạc &amp;gt; KH hạng vàng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ncP0GY6K7EEonhzEfuvG-1" value="Thử việc &amp;gt; Chính thức &amp;gt; Nghỉ việc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
