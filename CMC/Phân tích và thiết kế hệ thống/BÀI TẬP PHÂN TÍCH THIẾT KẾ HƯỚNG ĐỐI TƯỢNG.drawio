@@ -3254,7 +3254,7 @@
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-28" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1280" y="370" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-29" value="Nộp đơn xin việc" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-28" target="cu3ozMEcNVpwBOdDtg-7-30" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-29" value="NV nộp đơn xin việc" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-28" target="cu3ozMEcNVpwBOdDtg-7-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440" y="385" as="targetPoint" />
             <Array as="points">
@@ -3264,13 +3264,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-32" value="Làm lâu năm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-30" target="cu3ozMEcNVpwBOdDtg-7-31" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-32" value="NV làm lâu năm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-30" target="cu3ozMEcNVpwBOdDtg-7-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-30" value="Thử việc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-34" value="Nộp đơn xin nghỉ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-31" target="cu3ozMEcNVpwBOdDtg-7-33" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-34" value="NV nộp đơn xin nghỉ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-31" target="cu3ozMEcNVpwBOdDtg-7-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-31" value="Chính thức" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
