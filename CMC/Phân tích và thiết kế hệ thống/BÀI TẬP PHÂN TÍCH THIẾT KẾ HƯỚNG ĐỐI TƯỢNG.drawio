@@ -3219,24 +3219,24 @@
             <mxPoint x="820" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-16" value="Đặt hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cu3ozMEcNVpwBOdDtg-7-14" vertex="1" connectable="0">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-16" value="KH đặt hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cu3ozMEcNVpwBOdDtg-7-14" vertex="1" connectable="0">
           <mxGeometry x="0.0769" y="-1" relative="1" as="geometry">
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-21" value="Yêu cầu thanh toán" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-15" target="cu3ozMEcNVpwBOdDtg-7-20" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-21" value="KH yêu cầu thanh toán" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-15" target="cu3ozMEcNVpwBOdDtg-7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-15" value="Chưa thanh toán" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="365" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-23" value="Yêu cầu xác nhận Bank" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-20" target="cu3ozMEcNVpwBOdDtg-7-22" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-23" value="KH yêu cầu xác nhận Bank" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-20" target="cu3ozMEcNVpwBOdDtg-7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-20" value="Chưa xác nhận" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cu3ozMEcNVpwBOdDtg-7-25" value="Xác nhận Bank" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-22" target="cu3ozMEcNVpwBOdDtg-7-24" edge="1">
+        <mxCell id="cu3ozMEcNVpwBOdDtg-7-25" value="KH xác nhận Bank" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cu3ozMEcNVpwBOdDtg-7-22" target="cu3ozMEcNVpwBOdDtg-7-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cu3ozMEcNVpwBOdDtg-7-22" value="Xác nhận" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
