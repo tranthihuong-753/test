@@ -1,9 +1,160 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="c0SMi23oJYt_7KIwP5n4">
-    <mxGraphModel>
+    <mxGraphModel dx="1011" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="857f2y6uGlTn8-GaIiC5-1" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-ad9f5e90-7fff-71de-0014-95fa20ed07ef&quot;&gt;&lt;div dir=&quot;ltr&quot; style=&quot;margin-left:0pt;&quot; align=&quot;left&quot;&gt;&lt;table style=&quot;border:none;border-collapse:collapse;table-layout:fixed;width:451.27559055118115pt&quot;&gt;&lt;colgroup&gt;&lt;col&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:222.45pt&quot;&gt;&lt;td style=&quot;border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Mô tả hệ thống trong một đoạn văn:&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Hệ thống là một trang web hỗ trợ quản lí &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;đăng ký &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;tín chỉ &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;và điểm&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; của sinh viên trong một trường đại học. Trong đó, &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;sinh viên&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; được phép &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;đăng ký các môn học&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;, lớp học theo học phần cá nhân vào đầu mỗi học kì, xem &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;lịch học&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; hằng ngày với đầy đủ thông tin về KIP học, ngày học, tuần học, phòng học, tòa nhà; xem &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;kết quả học&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; chi tiết với từng môn học, từng đầu điểm thành phần của môn học, cũng như điểm trugn bình tích lũy các kì học của từng năm học hay từ đầu khóa học theo ngành học của sinh viên. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;Giảng viên&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; được phép đăng ký dạy các môn học, các lớp học phần theo nguyện vọng cá nhân, sau đó sẽ được bộ môn quản lý duyệt và phân công chính thức; nhập hay sửa điểm của các nhân viên trong lớp học phần do mình dạy;xem lịch dạy hàng tuần; và có thể xem các thống kê cá nhân về tỉ lệ sinh viên qua môn, diểm trung bình của sinh viên theo các môn học hay lớp học phần do mình dạy. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;Nhân viên giáo vụ&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; có tể quản lí thông tin liên quan đến các môn học; lên lịch hay điều chỉnh lịch học cho các lớp học phần; quản lí thông tin sinh vien theo yêu cầu của sinh viên. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;Nhân viên khảo thí &lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;có thể xuất bảng điểm toàn khóa theo yêu cầu của sinh viên. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;b&gt;Nhân viên quản lí&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; có thể quản lí thông tin giảng viên theo yêu cầu của giảng viên; xem các loại thống kê: thống kê lại học lực, thống kê sinh viên theo kết quả học tập, theo ngành học, theo khoa, theo năm học, hay học kì; thống kê giảng viên theo khối lượng giảng dạy, theo kết quả sinh viên, theo khoa hay bộ môn.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="650" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-2" value="Xác định các class (Thực thể , Danh từ) dự kiến dựa trên use case&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-3" value="Xác định thuộc tính (cung cấo p thông tn , Danh từ) và quan hệ giữa các lớp&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="680" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-4" value="Xác dịnh thuộc tính (Chức năng, Động từ)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="710" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-7" value="Biểu đồ lớp&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="857f2y6uGlTn8-GaIiC5-8" target="857f2y6uGlTn8-GaIiC5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-40" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-38">
+          <mxGeometry x="-0.7005" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-41" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-38">
+          <mxGeometry x="0.7725" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-8" value="Sinh viên&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-9" value="+id&amp;nbsp;&lt;div&gt;- pass&lt;/div&gt;&lt;div&gt;- data&lt;/div&gt;&lt;div&gt;+ id khoa&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ id môn-lớp&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-8">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-8">
+          <mxGeometry y="110" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-11" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-8">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="857f2y6uGlTn8-GaIiC5-20" target="857f2y6uGlTn8-GaIiC5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-45" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-44">
+          <mxGeometry x="-0.8009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-46" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-44">
+          <mxGeometry x="0.8009" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-20" value="Khoa&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="940" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-21" value="+ id&amp;nbsp;&lt;div&gt;-- data&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-20">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-20">
+          <mxGeometry y="60" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-23" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-20">
+          <mxGeometry y="68" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-24" value="Môn học&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="940" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-25" value="+id&amp;nbsp;&lt;div&gt;+ id khoa&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-24">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-24">
+          <mxGeometry y="60" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-27" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-24">
+          <mxGeometry y="68" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-28" value="Lớp học&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="940" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-29" value="+ id&lt;div&gt;+ id sinh viên&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-28">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-28">
+          <mxGeometry y="60" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-31" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-28">
+          <mxGeometry y="68" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="857f2y6uGlTn8-GaIiC5-32" target="857f2y6uGlTn8-GaIiC5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-53" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-52">
+          <mxGeometry x="-0.7857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-52">
+          <mxGeometry x="0.7456" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="857f2y6uGlTn8-GaIiC5-32" target="857f2y6uGlTn8-GaIiC5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-56" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-55">
+          <mxGeometry x="0.8575" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-57" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="857f2y6uGlTn8-GaIiC5-55">
+          <mxGeometry x="-0.8617" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-32" value="Lịch học (Môn học , Lớp học )" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1150" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-33" value="+id&amp;nbsp;&lt;div&gt;+ id môn học&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ id lớp học&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-32">
+          <mxGeometry y="26" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-32">
+          <mxGeometry y="80" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-35" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-32">
+          <mxGeometry y="88" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-58" value="Điểm&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1300" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-59" value="+ id sinh viên&amp;nbsp;&lt;div&gt;+ id môn lớp (id lịch học )&lt;/div&gt;&lt;div&gt;+ điểm&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-58">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-60" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-58">
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-61" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-58">
+          <mxGeometry y="88" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-62" value="Giảng viên&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1314" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-63" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-62">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-64" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-62">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="857f2y6uGlTn8-GaIiC5-65" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="857f2y6uGlTn8-GaIiC5-62">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
