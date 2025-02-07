@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNswNSfmQvKbLQ0kNU2q-11" value="Đăng nhập&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="318" y="298" width="93" height="46" as="geometry" />
+          <mxGeometry x="318" y="300" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="VNswNSfmQvKbLQ0kNU2q-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="VNswNSfmQvKbLQ0kNU2q-14" target="VNswNSfmQvKbLQ0kNU2q-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,8 +132,11 @@
         <mxCell id="NRM2r6z0vRKV2hB_PChY-8" value="Đánh giá và phản hồi về đơn hàng&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="1986" width="139" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="NRM2r6z0vRKV2hB_PChY-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NRM2r6z0vRKV2hB_PChY-11" target="VNswNSfmQvKbLQ0kNU2q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NRM2r6z0vRKV2hB_PChY-11" value="Quản lý tài khoản&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497" y="114" width="139" height="54" as="geometry" />
+          <mxGeometry x="303" y="399" width="123" height="56" as="geometry" />
         </mxCell>
         <mxCell id="NRM2r6z0vRKV2hB_PChY-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NRM2r6z0vRKV2hB_PChY-12" target="NRM2r6z0vRKV2hB_PChY-18">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +158,7 @@
         <mxCell id="NRM2r6z0vRKV2hB_PChY-20" value="Liên kết thẻ ngân hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="2226.5" width="141" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="NRM2r6z0vRKV2hB_PChY-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=0;endArrow=none;" edge="1" parent="1" source="NRM2r6z0vRKV2hB_PChY-22" target="NRM2r6z0vRKV2hB_PChY-12">
+        <mxCell id="NRM2r6z0vRKV2hB_PChY-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="NRM2r6z0vRKV2hB_PChY-22" target="NRM2r6z0vRKV2hB_PChY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NRM2r6z0vRKV2hB_PChY-22" value="Sửa cài đặt thông báo&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
