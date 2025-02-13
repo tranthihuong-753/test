@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-23" value="Thành viên Bạc" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="900" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-24" target="06tJIdHExdX9FuPC5DpM-25">
           <mxGeometry relative="1" as="geometry" />
@@ -350,11 +350,20 @@
         <mxCell id="06tJIdHExdX9FuPC5DpM-25" value="&#xa;&lt;b id=&quot;docs-internal-guid-70cc98bf-7fff-0fc6-bff3-2ec52eb0df34&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Thiết lập tự động thông tin TV bạc khi họ đặt chỗ (sở thích về xe thuê, thông tin liên hệ và chi tiết thẻ tín dụng) &lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="810" width="290" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-26" value="NV hỗ trợ khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-22" target="06tJIdHExdX9FuPC5DpM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KyXNlYAr9B6M4v_SRstL-1" target="06tJIdHExdX9FuPC5DpM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qyg0ds9GP00i9fXxCnOH-3" value="Điền thông tin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KyXNlYAr9B6M4v_SRstL-1" value="Trợ giúp TV bạc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
