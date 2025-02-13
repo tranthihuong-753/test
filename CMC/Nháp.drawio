@@ -340,7 +340,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-23" value="Thành viên Bạc" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="460" width="30" height="60" as="geometry" />
+          <mxGeometry x="890" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-24" target="06tJIdHExdX9FuPC5DpM-25">
           <mxGeometry relative="1" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="330" y="810" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-26" value="NV hỗ trợ khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="670" width="30" height="60" as="geometry" />
+          <mxGeometry x="880" y="640" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-22" target="06tJIdHExdX9FuPC5DpM-23">
           <mxGeometry relative="1" as="geometry" />
