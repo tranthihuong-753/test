@@ -292,6 +292,9 @@
         <mxCell id="06tJIdHExdX9FuPC5DpM-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-12" target="06tJIdHExdX9FuPC5DpM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qyg0ds9GP00i9fXxCnOH-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-12" target="qyg0ds9GP00i9fXxCnOH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-12" value="Tạo chỗ thuê xe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="580" width="140" height="50" as="geometry" />
         </mxCell>
@@ -301,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-13" value="Hủy chỗ thuê xe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="460" width="140" height="50" as="geometry" />
+          <mxGeometry x="330" y="420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-14" target="06tJIdHExdX9FuPC5DpM-12">
           <mxGeometry relative="1" as="geometry" />
@@ -354,6 +357,9 @@
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="06tJIdHExdX9FuPC5DpM-22" target="06tJIdHExdX9FuPC5DpM-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qyg0ds9GP00i9fXxCnOH-3" value="Điền thông tin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
