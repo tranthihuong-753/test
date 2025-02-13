@@ -264,10 +264,28 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1HJV61UrAdBUhBgmatoh" name="Use case - Công nghệ lập trình web">
-    <mxGraphModel dx="794" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="06tJIdHExdX9FuPC5DpM-1" value="Đề bài:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ứng Dụng Cho Thuê Xe&lt;/span&gt;&lt;div&gt;&lt;div&gt;Ứng dụng thuê xe di động phải hỗ trợ các tính năng sau:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Khách hàng có thể tạo, hủy hoặc chỉnh sửa một đặt chỗ thuê xe.&lt;/div&gt;&lt;div&gt;Xe thuê có thể được lấy và trả tại bất kỳ một trong 650 địa điểm của công ty cho thuê xe ở 50 quốc gia trên toàn thế giới. Công ty cho thuê xe cung cấp một loạt các phương tiện ở mỗi quốc gia. Phạm vi có thể không giống nhau ở mỗi quốc gia.&lt;/div&gt;&lt;div&gt;Để thực hiện đặt chỗ thuê xe, khách hàng phải cung cấp tên và địa chỉ email liên hệ, ngày giờ bắt đầu và kết thúc của thuê xe, địa điểm lấy và trả xe, loại xe mà họ muốn thuê và một thẻ tín dụng hợp lệ.&lt;/div&gt;&lt;div&gt;Khi đặt chỗ thuê xe được xác nhận, khách hàng sẽ nhận được một email từ hệ thống đặt chỗ trung tâm với chi tiết về thuê xe của họ, bao gồm ước tính chi phí và số tham chiếu thuê xe.&lt;/div&gt;&lt;div&gt;Khách hàng có thể chỉnh sửa hoặc hủy đặt chỗ bằng cách gọi lại đặt chỗ của họ từ hệ thống đặt chỗ trung tâm sử dụng số tham chiếu thuê xe và họ tên.&lt;/div&gt;&lt;div&gt;Sau khi đặt chỗ được thực hiện, khách hàng sẽ nhận được email nhắc nhở 72 giờ, 48 giờ và 24 giờ trước khi thuê xe bắt đầu.&lt;/div&gt;&lt;div&gt;Khách hàng thuê xe thường xuyên có thể trở thành Thành viên Thuê Xe Bạc và sẽ được cấp một Số Thành Viên Bạc.&lt;/div&gt;&lt;div&gt;Thành viên Thuê Xe Bạc có thể thiết lập sở thích về xe thuê, thông tin liên hệ và chi tiết thẻ tín dụng, tự động được sử dụng khi họ thực hiện đặt chỗ.&lt;/div&gt;&lt;div&gt;Thành viên Thuê Xe Bạc có thể đăng nhập bằng cách nhập số Thành viên Bạc và mật khẩu vào ứng dụng thuê xe di động. Sau khi đăng nhập, họ có thể quản lý các thuê xe của mình dễ dàng thông qua giao diện hiển thị danh sách các thuê xe hiện tại, từ đó họ có thể dễ dàng thực hiện đặt chỗ mới hoặc chỉnh sửa hoặc xóa đặt chỗ hiện có.&lt;/div&gt;&lt;div&gt;Thành viên Bạc cũng có thể chọn nói chuyện với một nhân viên hỗ trợ khách hàng, người sẽ giúp họ quản lý các thuê xe của mình.&lt;/div&gt;&lt;div&gt;Câu hỏi:&lt;/div&gt;&lt;div&gt;Xác định các trường hợp sử dụng chính, bao gồm cả các tác nhân, và vẽ sơ đồ các trường hợp sử dụng, bao gồm các mối quan hệ giữa các trường hợp sử dụng.&lt;/div&gt;&lt;div&gt;Xác định các lớp chính và các mối quan hệ giữa chúng. Sau đó, cung cấp sơ đồ lớp.&lt;/div&gt;&lt;div&gt;Mô tả một kịch bản (cho từng chức năng) có thể xảy ra trong ít nhất ba chức năng. Do đó, cung cấp ba sơ đồ tuần tự.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-80" width="760" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-3" value="Use case&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;Ứng dụng thuê xe di động&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="600" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-6" value="Phân quyền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-7" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJIdHExdX9FuPC5DpM-8" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
