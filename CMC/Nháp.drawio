@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-25" value="&#xa;&lt;b id=&quot;docs-internal-guid-70cc98bf-7fff-0fc6-bff3-2ec52eb0df34&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Thiết lập tự động thông tin TV bạc khi họ đặt chỗ (sở thích về xe thuê, thông tin liên hệ và chi tiết thẻ tín dụng) &lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="810" width="290" height="100" as="geometry" />
+          <mxGeometry x="330" y="810" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="06tJIdHExdX9FuPC5DpM-26" value="NV hỗ trợ khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="670" width="30" height="60" as="geometry" />
