@@ -462,6 +462,30 @@
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-24" value="Xem bản đồ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1490" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-25" value="Lưu danh sách yêu thích" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1580" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-26" value="Đặt Lịch hẹn xem phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-27" value="Nhận thông báo tự động phòng trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-28" value="Chat với chủ trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1850" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-29" value="Xem hợp đồng điện tử" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1940" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-30" value="Xác nhận hợp đồng điện tử" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2030" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-31" value="Đánh giá, bình luận trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-32" value="Gửi yêu cầu sửa chữa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2210" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
