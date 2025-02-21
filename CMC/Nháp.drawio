@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ack1Xst2g2V0Gbu7szbC" name="NCKH-Phòng trọ">
-    <mxGraphModel dx="3976" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3069" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-3" value="Chủ trọ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="620" width="30" height="60" as="geometry" />
+          <mxGeometry x="-640" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-9" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="120" width="140" height="70" as="geometry" />
@@ -551,7 +551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-33" value="Người thuê" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1760" width="30" height="60" as="geometry" />
+          <mxGeometry x="-640" y="1760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UuUB9NJHRkgVCHsKEdlp-36" target="UuUB9NJHRkgVCHsKEdlp-9">
           <mxGeometry relative="1" as="geometry" />
