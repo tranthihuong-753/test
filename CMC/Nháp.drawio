@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ack1Xst2g2V0Gbu7szbC" name="NCKH-Phòng trọ">
-    <mxGraphModel dx="1194" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,6 +398,69 @@
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-2" value="1.1 Use case tổng quát" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#908989, #281d00);strokeColor=#d6b656;fontColor=#F1FF73;" vertex="1" parent="1">
           <mxGeometry x="-120" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-3" value="Chủ trọ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-5" value="Quản lý tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="140" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-6" value="Quản lý phòng trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-7" value="Giao tiếp với người thuê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-8" value="Quản lý giao dịch &amp; hợp đồng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-9" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-10" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-11" value="Xác minh danh tính chủ trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-12" value="Chỉnh sửa thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-13" value="Đăng tin cho thuê trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-14" value="Chỉnh sửa thông tin phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-15" value="Quản lý danh sách phòng trọ của mình" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-16" value="Nhận thông báo phòng sắp hết hạn hợp đồng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="750" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-17" value="Đánh giá người thuê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="840" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-18" value="Nhận yêu cầu sửa chữa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="930" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-19" value="Phản hồi yêu cầu sửa chữa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1020" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-20" value="Đặt lịch hẹn xem phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-21" value="Tạo hợp đồng điện tử" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-22" value="Tạo quảng bá" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-23" value="Tìm kiếm trọ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-24" value="Xem bản đồ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1490" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
