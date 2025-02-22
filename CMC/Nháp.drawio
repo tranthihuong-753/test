@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ack1Xst2g2V0Gbu7szbC" name="NCKH-Phòng trọ">
-    <mxGraphModel dx="1682" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -747,14 +747,11 @@
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-70" value="Cập nhật quyền hạn tài khoản" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="460" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UuUB9NJHRkgVCHsKEdlp-71" value="Duyệt tin đăng phòng trọ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="550" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-72" value="Xóa/Sửa tin đăng sai phạm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="640" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="570" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-73" value="Thống kê tin đăng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="730" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="700" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-74" value="Duyệt báo cáo sửa chữa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="820" width="140" height="70" as="geometry" />
@@ -783,8 +780,10 @@
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-83" value="Quản lý hoa hồng &amp; phí dịch vụ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1540" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UuUB9NJHRkgVCHsKEdlp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UuUB9NJHRkgVCHsKEdlp-84" target="UuUB9NJHRkgVCHsKEdlp-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UuUB9NJHRkgVCHsKEdlp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UuUB9NJHRkgVCHsKEdlp-84" target="UuUB9NJHRkgVCHsKEdlp-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UuUB9NJHRkgVCHsKEdlp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UuUB9NJHRkgVCHsKEdlp-84" target="UuUB9NJHRkgVCHsKEdlp-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
